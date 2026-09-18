@@ -1,4 +1,4 @@
-Bu layihə bank sisteminin əməliyyatlarını (müştərilər, hesablar, köçürmələr, təhlükəsizlik və s.) idarə etmək üçün **.NET 8 Web API** və **Clean / Modulyar Arxitektura** əsasında hazırlanmış tam backend və idarəetmə sistemidir.
+Bu layihə bank sisteminin əməliyyatlarını (müştərilər, hesablar, köçürmələr, təhlükəsizlik və s.) idarə etmək üçün **.NET 8 Web API** və **Clean / Modulyar Arxitektura** əsasında hazırlanmış  backend və management sistemidir. 
 ---
 ##  Texnologiyalar və Alətlər
 - **Platforma**: .NET 8 (C#)
